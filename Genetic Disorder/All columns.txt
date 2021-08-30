@@ -1,0 +1,46 @@
+   Patient Id                                        22083 non-null  object 
+ 1   Patient Age                                       20656 non-null  float64
+ 2   Genes in mother's side                            22083 non-null  object 
+ 3   Inherited from father                             21777 non-null  object 
+ 4   Maternal gene                                     19273 non-null  object 
+ 5   Paternal gene                                     22083 non-null  object 
+ 6   Blood cell count (mcL)                            22083 non-null  float64
+ 7   Patient First Name                                22083 non-null  object 
+ 8   Family Name                                       12392 non-null  object 
+ 9   Father's name                                     22083 non-null  object 
+ 10  Mother's age                                      16047 non-null  float64
+ 11  Father's age                                      16097 non-null  float64
+ 12  Institute Name                                    16977 non-null  object       
+ 13  Location of Institute                             22083 non-null  object       
+ 14  Status                                            22083 non-null  object 
+ 15  Respiratory Rate (breaths/min)                    19934 non-null  object 
+ 16  Heart Rate (rates/min                             19970 non-null  object 
+ 17  Test 1                                            19956 non-null  float64
+ 18  Test 2                                            19931 non-null  float64
+ 19  Test 3                                            19936 non-null  float64
+ 20  Test 4                                            19943 non-null  float64
+ 21  Test 5                                            19913 non-null  float64
+ 22  Parental consent                                  19958 non-null  object 
+ 23  Follow-up                                         19917 non-null  object 
+ 24  Gender                                            19910 non-null  object 
+ 25  Birth asphyxia                                    19944 non-null  object 
+ 26  Autopsy shows birth defect (if applicable)        21057 non-null  object 
+ 27  Place of birth                                    19959 non-null  object 
+ 28  Folic acid details (peri-conceptional)            19966 non-null  object 
+ 29  H/O serious maternal illness                      19931 non-null  object 
+ 30  H/O radiation exposure (x-ray)                    19930 non-null  object 
+ 31  H/O substance abuse                               19888 non-null  object 
+ 32  Assisted conception IVF/ART                       19961 non-null  object 
+ 33  History of anomalies in previous pregnancies      19911 non-null  object 
+ 34  No. of previous abortion                          19921 non-null  float64
+ 35  Birth defects                                     19929 non-null  object 
+ 36  White Blood cell count (thousand per microliter)  19935 non-null  float64
+ 37  Blood test result                                 19938 non-null  object 
+ 38  Symptom 1                                         19928 non-null  float64
+ 39  Symptom 2                                         19861 non-null  float64
+ 40  Symptom 3                                         19982 non-null  float64
+ 41  Symptom 4                                         19970 non-null  float64
+ 42  Symptom 5                                         19930 non-null  float64
+ 43  Genetic Disorder                                  19937 non-null  object 
+ 44  Disorder Subclass                                 19915 non-null  object 
+
